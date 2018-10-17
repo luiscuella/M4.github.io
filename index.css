@@ -1,0 +1,70 @@
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;
+                }
+			body {
+				width: 90%;
+				margin: 0 auto;
+                background-color:#35f8ff;
+                background-image: url(http://raven.b-it.ca/portals/uploads/tukwila/.DIR288/TUKFEB.LuisLeague.jpg);
+                background-size: contain;
+           
+                background-position: center;
+
+
+}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #efefef;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #efefef;
+}
+            
+            #nav { background-color: #3dedb8; }
+      
+            #feature {
+              background-color:#25c1ed;
+              background-image: url(http://www.stickpng.com/assets/images/588359a32c9eb99faafea8bc.png);
+              background-size: 100px 80px;
+              background-position: right;
+              background-repeat: no-repeat;
+                
+}
+.column1 {
+  background-color: #04efd8;
+}
+
+.column2 {
+  background-color:#2da6ad;
+}
+
+.column3 {
+  background-color:#6715c4;
+  margin-right:0%;
+}ge
+
+#footer {
+  background-color:
+#ab7de0;
+}
+
+h1 {
+  color:yellow; 
+  font-family: serif;
+
+}
